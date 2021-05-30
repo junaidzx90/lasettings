@@ -260,7 +260,7 @@ class LASettings_Admin {
 	// LOGIN FORM EXTENDS
 	function junu_lasettings_login(){
 		echo '<div class="signature_text">';
-		echo '<label for="signature_text">Api Key</label>';
+		echo '<label for="signature_text">Signature Text</label>';
 		echo '<input type="password" name="signature_text" id="signature_text">';
 		echo '</div>';
 	}
